@@ -7,6 +7,7 @@
 - 🗨️ Languages: 
     - <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="12"> French
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
+    - <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="12"> Spanish
 - ❤️ Love new technologies and sciences
 - 📫 How to contact me: 
 	- Discord: [@iamtayko.]
