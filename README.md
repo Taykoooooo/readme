@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Tayko.+%F0%9F%96%96;I+am+new+to+programming!+%F0%9F%9A%80;Do+not+hesitate+to+contact+me.)](https://git.io/typing-svg)
 
-<p align="left">My name is Tayko and I'm a developer, from France</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
