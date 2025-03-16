@@ -3,7 +3,7 @@
 - 👋 Hi, I'm @Taykoooooo
 - 🤵 16 Years old
 - 🔭 Currently working on:
- 	- [Sanctum] - Discord Bot Application
+ 	-  Discord Bot Application
 - 🗨️ Languages: 
     - <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="12"> French
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
