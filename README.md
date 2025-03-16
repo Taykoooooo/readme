@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I'm @Taykoooooo<br>- 🤵 16 Years old<br>- 🔭 Currently working on:<br> 	- [Sanctum] - Discord Bot<br>- 🗨️ Languages: <br>    - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English<br>    - <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> French<br>- ❤️ Love to learn new technologies and frameworks<br>- 📫 How to reach me: <br>	- Discord: [@iamtayko.]</p>
+<p align="left">- 👋 Hi, I'm @Taykoooooo<br>- 🤵 16 Years old<br>- 🔭 Currently working on:<br> 	- [Sanctum] - Discord Bot<br>- 🗨️ Languages: <br>    - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English<br>    - <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="12"> French<br>- ❤️ Love to learn new technologies and frameworks<br>- 📫 How to reach me: <br>	- Discord: [@iamtayko.]</p>
 
 ###
 
